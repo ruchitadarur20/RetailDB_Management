@@ -1,0 +1,24 @@
+
+Table CUSTOMERS dropped.
+
+
+Table TRANSACTIONS dropped.
+
+
+Table PRODUCTS dropped.
+
+
+Table CONTAINS dropped.
+
+
+Table CUSTOMERS created.
+
+
+Table TRANSACTIONS created.
+
+
+Table PRODUCTS created.
+
+
+Table CONTAINS created.
+

@@ -1,0 +1,441 @@
+
+Table PRODUCT dropped.
+
+
+Table CUSTOMER dropped.
+
+
+Table TRANSACTIONS dropped.
+
+
+Table TRANSACTION_CONTAINS dropped.
+
+
+Table PRODUCT created.
+
+
+Table CUSTOMER created.
+
+
+Table TRANSACTIONS created.
+
+
+Table TRANSACTION_CONTAINS created.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+UPC                            BRAND                          PRODUCT_NAME                                       PRODUCT_DESCRIPTION                                                                                                                                                                                      CATEGORY                       MARKED_PRICE QUANTITY_IN_STOCK
+------------------------------ ------------------------------ -------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------ ------------ -----------------
+10001                          Welsh Farms                    Whole Milk 1 Gal                                   Welsh Farms Whole Milk Size 1 Gallon                                                                                                                                                                     Dairy                                   3.5                30
+10002                          Eggland                        Eggs L 12ct                                        Large Eggs - 12 count                                                                                                                                                                                    Dairy                                  2.25                19
+10003                          Kraft                          Kraft Mac n Cheese                                 Kraft Macaroni and Cheese Original Flavor Individual Box                                                                                                                                                 Food                                   1.69                38
+10004                          Rice-a-Roni                    Rice-A-Roni Cajun                                  Rice-A-Roni Rice Dishes - Flavor Cajun Chicken                                                                                                                                                           Food                                    1.3                49
+10005                          Pringles                       Pringles Sour Cream and Onion                      Pringles Potato Chips - Sour Cream and Onion Flavor - 6 oz                                                                                                                                               Snack                                   4.5                28
+10006                          Tostitos                       Tostitos Family Size                               Tostitos Corn Chips - Family Size 1 lb                                                                                                                                                                   Snack                                     6                18
+10007                          Store Brand                    Lettuce                                            Lettuce - 1 head                                                                                                                                                                                         Produce                                 2.5                24
+10008                          Store Brand                    Tomatoes                                           Tomatoes - 1 lb                                                                                                                                                                                          Produce                                1.99                12
+10009                          Florida Natural                Oranges                                            Oranges - Large Size - 1 lb                                                                                                                                                                              Produce                                 3.5                38
+10010                          Store Brand                    Broccoli                                           Fresh Broccoli Crowns - 1 lb                                                                                                                                                                             Produce                                 3.5                17
+10011                          Tropicana                      Tropicana Pure Premium OJ 1 Gal                    Tropicana Pure Premium Orange Juice - Size 1 Gallon                                                                                                                                                      Beverages                              3.99                48
+
+UPC                            BRAND                          PRODUCT_NAME                                       PRODUCT_DESCRIPTION                                                                                                                                                                                      CATEGORY                       MARKED_PRICE QUANTITY_IN_STOCK
+------------------------------ ------------------------------ -------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------ ------------ -----------------
+10012                          Coca-Cola                      Coca-Cola 2L                                       Coca-Cola Regular - Size 2 Liters                                                                                                                                                                        Beverages                              1.99                94
+10013                          Pepsi                          Pepsi 2L                                           Pepsi Regular - Size 2 Liters                                                                                                                                                                            Beverages                              1.99                50
+10014                          Pepsi                          Diet Pepsi 2L                                      Diet Pepsi - Size 2 Liters                                                                                                                                                                               Beverages                              1.99                30
+10015                          Colgate                        Colgate Winterfresh                                Colgate Toothpaste Winterfresh Flavor 3.8 oz                                                                                                                                                             Pharmacy                                  4                26
+10016                          Crest                          Crest Whitening Mint                               Crest Whitening Toothpaste - Mint Flavor 3.6 oz                                                                                                                                                          Pharmacy                               3.79                28
+10017                          Claritin                       Claritin 24 Hour                                   Claritin 24 Hour Allergy Relief - 90 ct                                                                                                                                                                  Pharmacy                              13.59                18
+10018                          Store Brand                    Beef Top Sirloin                                   Fresh Beef - Cut Top Sirloin - 1 lb                                                                                                                                                                      Meat                                   8.99                27
+10019                          Store Brand                    Pork Shoulder                                      Fresh Pork - Cut Shoulder - 1 lb                                                                                                                                                                         Meat                                   6.59                 9
+10020                          Store Brand                    Ground Chuck                                       Beef - Ground Chuck 94 percent Lean - 1 lb                                                                                                                                                               Meat                                      6                22
+10021                          Boars Head                     Honed Glazed Ham                                   Deli Meat - Honey Glazed Ham - 1 lb                                                                                                                                                                      Deli                                    7.5                51
+10022                          Boars Head                     Oven Smoked Turkey                                 Deli Meat - Oven Smoked Turkey - 1 lb                                                                                                                                                                    Deli                                    7.5                15
+
+UPC                            BRAND                          PRODUCT_NAME                                       PRODUCT_DESCRIPTION                                                                                                                                                                                      CATEGORY                       MARKED_PRICE QUANTITY_IN_STOCK
+------------------------------ ------------------------------ -------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------ ------------ -----------------
+10023                          Kraft                          Sliced Provolone                                   Deli Cheese - Sliced Provolone - 1 lb                                                                                                                                                                    Deli                                    5.5                29
+10024                          Kraft                          Sliced Jarlsberg                                   Deli Cheese - Sliced Jarlsberg - 1 lb                                                                                                                                                                    Deli                                    5.5                21
+10025                          Arnold                         Hot Dog Buns                                       Arnold Hot Dog Buns - 6 ct                                                                                                                                                                               Bakery                                    2                92
+10026                          Arm and Hammer                 Baking Soda                                        Arm and Hammer Baking Soza - 1 lb                                                                                                                                                                        Household                                 9                39
+10027                          Charmin                        Charmin Extra Soft Family Pack                     Charmin Extra Soft Bathroom Tissue - 16 ct                                                                                                                                                               Household                                15                15
+10028                          Kleenex                        Kleenex 250                                        Kleenex Tissue - 250 ct - floral box                                                                                                                                                                     Household                                 3                41
+10029                          Budweiser                      Bud Light 24-pk                                    Bud Light Case of Beer - 24 count                                                                                                                                                                        Alcohol                               29.99                10
+10030                          Budweiser                      Budweiser 24-pk                                    Original Budweiser Case of Beer - 24 count                                                                                                                                                               Alcohol                               29.99                20
+10031                          Coors                          Coors Light 12-pk                                  Original Coors The Banquet Beer 12 Pack                                                                                                                                                                  Alcohol                                16.5                73
+10032                          Miller                         MGD 12-pk                                          Miller Genuine Draft Beer 12 Pack                                                                                                                                                                        Alcohol                                16.5                27
+
+32 rows selected. 
+
+
+CUSTOMER_ID FIRST_NAME                                         LAST_NAME                                                 AGE G   ZIP_CODE
+----------- -------------------------------------------------- -------------------------------------------------- ---------- - ----------
+          1 David                                              Smith                                                      30 M      22030
+          2 Candice                                            Bolton                                                     27 F      22030
+          3 David                                              Goldenberg                                                 65 M      22030
+          4 Greg                                               Jennings                                                   25 M      22030
+          5 Aaron                                              Rodgers                                                    32 M      20121
+          6 Lindsey                                            Lohan                                                      24 F      20121
+          7 Alec                                               Baldwin                                                    62 M      20121
+          8 John                                               Wayne                                                      37 M      22030
+          9 John                                               Wayne                                                      31 M      22015
+         10 Jennifer                                           Johnson                                                    19 F      22030
+
+10 rows selected. 
+
+
+TRANSACTION_ID CUSTOMER_ID TRANSACTI P      TOTAL
+-------------- ----------- --------- - ----------
+           101           4 10-FEB-13 1      28.17
+           102           9 12-FEB-13 2      36.48
+           103           1 15-FEB-13 2      96.15
+           104          10 20-FEB-13 3      84.74
+           105           3 15-FEB-13 2       12.5
+           106           1 15-FEB-13 2      39.38
+
+6 rows selected. 
+
+
+TRANSACTION_ID UPC                              QUANTITY
+-------------- ------------------------------ ----------
+           101 10003                                   2
+           101 10005                                   3
+           101 10012                                   1
+           101 10013                                   5
+           102 10001                                   1
+           102 10002                                   2
+           102 10003                                   5
+           102 10005                                   1
+           102 10009                                   1
+           102 10014                                   2
+           102 10015                                   2
+
+TRANSACTION_ID UPC                              QUANTITY
+-------------- ------------------------------ ----------
+           103 10010                                   4
+           103 10011                                   1
+           103 10012                                   2
+           103 10014                                   2
+           103 10015                                   1
+           103 10017                                   1
+           103 10018                                   2
+           103 10020                                   1
+           103 10023                                   1
+           103 10025                                   3
+           103 10032                                   2
+
+TRANSACTION_ID UPC                              QUANTITY
+-------------- ------------------------------ ----------
+           104 10012                                   4
+           104 10030                                   3
+           104 10010                                   5
+           104 10002                                   1
+           104 10001                                   1
+           104 10031                                   2
+           105 10005                                   2
+           105 10004                                   3
+           106 10021                                   1
+           106 10027                                   2
+
+32 rows selected. 
+
+
+Commit complete.
+
+
+CUSTOMER_ID
+-----------
+          1
+          4
+         10
+          3
+
+
+TRANSACTION_ID
+--------------
+           103
+           106
+
+
+CUSTOMER_ID
+-----------
+          1
+          4
+         10
+          9
+
+
+CUSTOMER_ID
+-----------
+          1
+          4
+
+
+CUSTOMER_ID
+-----------
+          6
+          7
+          2
+          8
+          5
+
+
+FIRST_NAME                                         LAST_NAME                                         
+-------------------------------------------------- --------------------------------------------------
+Jennifer                                           Johnson                                           
+David                                              Goldenberg                                        
+John                                               Wayne                                             
+Greg                                               Jennings                                          
+
+
+CUSTOMER_ID TOTAL_QUANTITY
+----------- --------------
+          1             23
+          9             14
+          3              5
+
+
+CUSTOMER_ID
+-----------
+         10
+          9
+
