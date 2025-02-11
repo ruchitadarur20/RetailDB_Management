@@ -1,6 +1,3 @@
-# RetailDB_Management
-Database system for managing transactions and inventory
-
 # RetailDB Management (or your chosen project name)
 
 ## 📌 Project Overview
