@@ -6,11 +6,11 @@ This repository contains a relational database system designed to efficiently ma
 ## 📂 Repository Structure
 
 📁 Project Root
-├── 📄 ER_Diagram.pdf (ER diagram representation of the database)
-├── 📄 Relational_Schemas.pdf (Schemas converted from ER diagram)
-├── 📄 Database_Tables.sql (SQL script to create tables and constraints)
-├── 📄 Sample_Data.sql (SQL script with sample data for testing)
-├── 📄 Execution_Log.txt (Log output from SQL execution)
+├── 📄 ER_Diagram.pdf (ER diagram representation of the database) <be>
+├── 📄 Relational_Schemas.pdf (Schemas converted from ER diagram) <be>
+├── 📄 Database_Tables.sql (SQL script to create tables and constraints) <be>
+├── 📄 Sample_Data.sql (SQL script with sample data for testing) <be>
+├── 📄 Execution_Log.txt (Log output from SQL execution) <be>
 ├── 📄 README.md (This file – project documentation)
 
 
